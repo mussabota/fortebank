@@ -1,0 +1,2 @@
+Result of training: 
+    My model has achieved an epsilon value(Machine zero value).

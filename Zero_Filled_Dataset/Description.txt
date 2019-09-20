@@ -1,0 +1,8 @@
+Dataset: 
+	Forte_Kassa_Zero_Filled.csv
+	https://drive.google.com/open?id=1Y2nkm8s3FAa4feA4m_ofjeiGf6VoyQ2f
+
+Features: 
+	Dropped items_id = 5037(Универсальный товар) & Chosen shop with id == 5 (Акбар)
+
+Model: Forte_ANN_on_zero_filled.h5

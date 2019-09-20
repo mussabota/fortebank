@@ -1,0 +1,8 @@
+Dataset: 
+	Forte_train_preprocessed.csv
+	https://drive.google.com/open?id=1r895ehmjNucPkcfasZgVNKFJGjKA2AKd
+
+Features: 
+	Dropped items_id = 5037(Универсальный товар) & Chosen shop with id == 5 (Акбар)
+
+Model: Forte_MLP.h5
